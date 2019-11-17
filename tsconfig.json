@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src/app",
+        "target": "esnext",
+        "module": "esnext",
+        "allowJs": true,
+        "outDir": "build",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
+        "sourceMap": true,
+        "checkJs": false,
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    },
+    "include": [
+        "src/app/**/*"
+    ],
+    "exclude": [
+        "./node_modules/**/*"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "js-physics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartaviK/js-physics.git"
+  },
+  "author": "Roman Varkuta <roman.varkuta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KartaviK/js-physics/issues"
+  },
+  "homepage": "https://github.com/KartaviK/js-physics#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.8",
+    "typescript": "^3.7.2"
+  }
+}
